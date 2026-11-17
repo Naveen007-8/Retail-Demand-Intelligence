@@ -35,9 +35,6 @@ An end-to-end retail analytics project integrating sales data, simulated ERP inv
 - `outputs/` – Reports and analytical outputs
 - `models/` – Forecasting models
 
-## Project Status
-In development – 30-session practical capstone.
-
 ## Expected Deliverables
 - Integrated retail analytics dataset
 - Exploratory data analysis
