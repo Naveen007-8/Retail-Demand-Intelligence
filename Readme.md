@@ -35,10 +35,6 @@ An end-to-end retail analytics project integrating sales data, simulated ERP inv
 - `outputs/` – Reports and analytical outputs
 - `models/` – Forecasting models
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 47e887e35ba9b4275653f9a827c4731680040888
 ## Expected Deliverables
 - Integrated retail analytics dataset
 - Exploratory data analysis
